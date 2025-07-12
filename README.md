@@ -1,4 +1,4 @@
-# Data & Analytics Executive Portfolio
+# Brenda Allen-Toon Executive Portfolio
 
 Welcome! I am a data, insights and analytics executive with 20+ years of experience driving business outcomes through the full cycle of data leverage from data strategy, data science, data creation to generate high-impact insights. This portfolio showcases business-driven analytics use cases, leadership artifacts, and technical fluency I have. 
 
